@@ -1,0 +1,26 @@
+{
+  "name": "designer-skills",
+  "owner": {
+    "name": "Julian Oczkowski"
+  },
+  "description": "Design-process skills for Claude Code by Julian Oczkowski.",
+  "plugins": [
+    {
+      "name": "designer-skills",
+      "source": "./",
+      "description": "Design-process skills: briefs, information architecture, design tokens, design review, frontend design, task breakdown, grill-me, and the full design-flow orchestrator.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Julian Oczkowski"
+      },
+      "homepage": "https://github.com/julianoczkowski/designer-skills",
+      "license": "Apache-2.0",
+      "keywords": [
+        "design",
+        "skills",
+        "ui",
+        "ux"
+      ]
+    }
+  ]
+}

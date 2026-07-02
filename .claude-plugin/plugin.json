@@ -1,0 +1,30 @@
+{
+  "name": "designer-skills",
+  "description": "Design-process skills for Claude Code: briefs, information architecture, design tokens, design review, frontend design, and more.",
+  "author": {
+    "name": "Julian Oczkowski",
+    "url": "https://github.com/julianoczkowski"
+  },
+  "homepage": "https://github.com/julianoczkowski/designer-skills",
+  "repository": "https://github.com/julianoczkowski/designer-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "design",
+    "skills",
+    "ui",
+    "ux",
+    "design-tokens",
+    "design-review",
+    "frontend"
+  ],
+  "skills": [
+    "./brief-to-tasks",
+    "./design-brief",
+    "./design-flow",
+    "./design-review",
+    "./design-tokens",
+    "./frontend-design",
+    "./grill-me",
+    "./information-architecture"
+  ]
+}

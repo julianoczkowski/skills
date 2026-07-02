@@ -31,6 +31,25 @@ npx skills add julianoczkowski/designer-skills
 
 The interactive CLI will walk you through which skills to install, which agents to target, and whether to install at project or global scope. Works with Claude Code, Cursor, Codex, Windsurf, and 40+ other agents.
 
+### Claude Code plugin
+
+If you use Claude Code, you can install all 8 skills as a plugin directly from this repo:
+
+```
+/plugin marketplace add julianoczkowski/designer-skills
+/plugin install designer-skills@designer-skills
+```
+
+The skills then load automatically. Claude invokes them based on each skill's description, or you can call one explicitly, e.g. `/designer-skills:design-brief`.
+
+Installs track the latest commit on `main`, so you always get the newest skills and fixes. To pull updates later:
+
+```
+/plugin update designer-skills@designer-skills
+```
+
+To try it locally before installing, run `claude --plugin-dir /path/to/designer-skills`.
+
 ## Security
 
 These files are **instructions for local AI tools**. Treat them like any other project dependency: **review** skills before using them in sensitive or production contexts, and keep your editor, CLI, and API keys on trusted machines. We welcome **responsible disclosure** of anything in this repo that could cause agents to act unsafely; please use the process in [SECURITY.md](SECURITY.md) instead of public issues. Licensing and disclaimer: [LICENSE](LICENSE) (Apache 2.0).

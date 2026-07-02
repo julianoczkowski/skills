@@ -40,7 +40,15 @@ If you use Claude Code, you can install all 8 skills as a plugin directly from t
 /plugin install designer-skills@designer-skills
 ```
 
-The skills then load automatically. Claude invokes them based on each skill's description, or you can call one explicitly, e.g. `/designer-skills:design-brief`. To try it locally before installing, run `claude --plugin-dir /path/to/designer-skills`.
+The skills then load automatically. Claude invokes them based on each skill's description, or you can call one explicitly, e.g. `/designer-skills:design-brief`.
+
+Installs track the latest commit on `main`, so you always get the newest skills and fixes. To pull updates later:
+
+```
+/plugin update designer-skills@designer-skills
+```
+
+To try it locally before installing, run `claude --plugin-dir /path/to/designer-skills`.
 
 ## Security
 

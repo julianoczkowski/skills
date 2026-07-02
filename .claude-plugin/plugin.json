@@ -1,7 +1,6 @@
 {
   "name": "designer-skills",
   "description": "Design-process skills for Claude Code: briefs, information architecture, design tokens, design review, frontend design, and more.",
-  "version": "1.0.0",
   "author": {
     "name": "Julian Oczkowski",
     "url": "https://github.com/julianoczkowski"

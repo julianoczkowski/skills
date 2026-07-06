@@ -124,3 +124,12 @@ Each philosophy defines specific parameters for typography (font families, scale
 
 - Design tree concept from _The Design of Design_ by Frederick P. Brooks Jr.
 - Adapted for designers by [Julian Oczkowski](https://youtube.com/@aiforwork_app)
+## Author
+
+<img width="236" height="236" alt="avatar2" src="https://github.com/user-attachments/assets/5677ddb5-6b0b-4054-a70b-a143761dd307" />
+
+Built by **Julian Oczkowski** — I build AI tools for knowledge work.
+
+- 🎥 **[YouTube · @aiforwork_app](https://www.youtube.com/@aiforwork_app)** — walkthroughs and AI-for-work tutorials
+- ✍️ **[Medium](https://medium.com/@julian.oczkowski)** — deep dives on product and AI workflows
+- 💼 **[LinkedIn](https://www.linkedin.com/in/julianoczkowski/)** — connect and follow along
